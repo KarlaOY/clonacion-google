@@ -207,3 +207,7 @@ footer ul li a{
     font-family: Arial, sans-serif;
     color: #70757A;
 }
+
+footer ul li a:hover{
+   border-bottom: 1px solid;
+}
