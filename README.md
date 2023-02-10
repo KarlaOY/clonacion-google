@@ -27,5 +27,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de la bus
 Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a Demo
-
-(https://clonacion-google.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://clonacion-google.netlify.app/)
